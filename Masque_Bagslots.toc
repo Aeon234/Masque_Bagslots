@@ -1,5 +1,5 @@
 ## Interface: 120001, 120000
-## Title: Masque Bag Slots
+## Title: Masque: Bag Slots
 ## Notes: Enables skinning for bag slot buttons using Masque.
 ## Version: 2.0.0
 ## Author: Aeon
