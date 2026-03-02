@@ -1,0 +1,15 @@
+## Interface: 120001, 120000
+## Title: Masque Bag Slots
+## Notes: Enables skinning for bag slot buttons using Masque.
+## Version: 2.0.0
+## Author: Aeon
+
+## Dependencies: Masque
+## DefaultState: Enabled
+
+## X-Curse-Project-ID: 1398916
+
+## IconTexture: 4641307
+## X-Category: Interface Enhancements
+
+Bagslots.lua
